@@ -1,1 +1,4 @@
 .vscode/
+.idea/
+*.log
+error_log

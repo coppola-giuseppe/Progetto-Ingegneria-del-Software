@@ -8,7 +8,7 @@
 * [Installazione](#installazione)
 * [Utilizzo](#utilizzo)
 * [Collaudo e Test](#collaudo-e-test)
-* [Ingegneria del Software e Documentazione](#documentazione)
+* [Ingegneria del Software e Documentazione](#ingegneria-del-software-e-documentazione)
 
 ## Descrizione del Progetto
 Laureandosi 2.0 è un'applicazione web sviluppata per automatizzare la generazione e l'invio dei prospetti di laurea. Il sistema preleva i dati delle carriere degli studenti, calcola le medie pesate applicando le specifiche formule di ciascun corso di laurea, e genera documenti PDF destinati sia alla commissione esaminatrice che ai singoli laureandi.
